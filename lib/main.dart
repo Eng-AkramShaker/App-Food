@@ -4,7 +4,9 @@ import 'package:flutter/material.dart';
 import 'pages/Home-Page.dart';
 
 void main() {
-  runApp(FoodApp());
+  runApp(
+    FoodApp(),
+  );
 }
 
 class FoodApp extends StatelessWidget {
